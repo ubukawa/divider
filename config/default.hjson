@@ -1,0 +1,8 @@
+{
+    minzoom: 2
+    maxzoom: 8
+    srcDir: src/zxy
+    outDir: out
+    extension: png
+    divNum: 3
+}
